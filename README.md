@@ -6,6 +6,7 @@
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Troubleshooting](#troubleshooting)
+- [Future Considerations](#future-considerations)
 
 ## Technology Stack
 
@@ -21,3 +22,7 @@
 
 ## Troubleshooting
 See React docs [here](https://create-react-app.dev/docs/getting-started).
+
+## Future Considerations
+- Plan to revamp styling and deploy asap
+- After will begin working on the actual site
