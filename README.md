@@ -15,7 +15,7 @@
 - **Database:** none
 - **APIs**: none
 
-### Installation
+## Installation
 1. clone repo
 2. npm install (use nvm to update Node if any discrepencies)
 3. npm start
