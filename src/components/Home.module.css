@@ -1,0 +1,76 @@
+/* Home.module.css */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("/public/images/hero.jpg"); /* Ensure this path is correct */
+  background-size: cover;
+  background-position: center;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.heroSection {
+  background-color: rgb(231, 212, 168);
+  min-height: 50vh;
+  max-width: 95vw;
+  margin: 1em 5rem;
+  padding: 2em;
+  border-radius: 25px;
+  border: solid gray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  width: 150px; 
+  height: auto; 
+  margin-top: 3rem;
+}
+
+.countdown {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 1em;
+  padding: 0.2em;
+  margin-top: 0.5em;
+  border: solid gray;
+  border-width: 1px;
+  border-radius: 5px;
+  background-color: black;
+  color: red;
+  font-size: 3.5rem;
+  font-weight: 900;
+  font-family: "Digital";
+}
+
+.contactHeader {
+  font-size: 1.7rem;
+  margin-top: 1.5em;
+}
+
+.contactEmail {
+  font-size: 1.7rem;
+  margin-bottom: 1.5em;
+}
+
+.pastDevfestLink {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: lightblue;
+  color: black;
+  border-radius: 15px;
+  margin-bottom: 1em;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4rem;
+}
