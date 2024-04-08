@@ -44,7 +44,7 @@ const Home = () => {
 
     // Clean up the interval on unmount
     return () => clearInterval(intervalId);
-  }, []);
+  });
 
   return (
     <main>
