@@ -6,6 +6,7 @@
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Troubleshooting](#troubleshooting)
+- [Future Considerations](#future-considerations)
 
 ## Technology Stack
 
@@ -14,10 +15,14 @@
 - **Database:** none
 - **APIs**: none
 
-### Installation
+## Installation
 1. clone repo
 2. npm install (use nvm to update Node if any discrepencies)
 3. npm start
 
 ## Troubleshooting
 See React docs [here](https://create-react-app.dev/docs/getting-started).
+
+## Future Considerations
+- Plan to revamp styling and deploy asap
+- After will begin working on the actual site
